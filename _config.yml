@@ -9,7 +9,7 @@ url: "https://aiproductcoach.github.io" # the base hostname & protocol for your 
 twitter_username: jekyllrb
 github_username:  jekyll
 site_logo: "/assets/images/logo_1.png"
-copyright: "Copyright &copy; 2020 <span>Deneb</span>. All rights reserved."
+copyright: "Copyright &copy; 2023 <span>AI Product Coach LLC</span>. All rights reserved."
 
 permalink: "/:title"
 

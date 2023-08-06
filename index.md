@@ -10,20 +10,6 @@ slider:
     button:
       name: "Hire Me"
       link: "#"
-  - image: "/assets/images/banner_02.png"
-    heading: "We Are Creative <br><span>Deneb Agency</span>"
-    heading2: "We Are Professional Freelance Web Designer"
-    text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
-    button:
-      name: "Hire Me"
-      link: "#"
-  - image: "/assets/images/banner_03.png"
-    heading: "We Are Creative <br><span>Deneb Agency</span>"
-    heading2: "We Are Professional Freelance Web Designer"
-    text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
-    button:
-      name: "Hire Me"
-      link: "#"
 
 # Services
 services:  
@@ -40,24 +26,24 @@ about:
     name: "Read More"
     link: "/about"
 
-# Achivement
-achivement: 
-  heading: "Over 500+ Completed work & Still Counting"
-  text: "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at orci non risus luctus commodo. Ut nibh tellus, faucibus nec gravida."
-  text2: "Duis quis ipsum leo. Praesent vitae tellus ac ante porta mattis vel non ex. Quisque a finibus justo."
-  list:
-   - icon: "/assets/images/icon_7.png"
-     name: "300+"
-     description: "Projects Done"
-   - icon: "/assets/images/icon_8.png"
-     name: "250+"
-     description: "Projects Done"
-   - icon: "/assets/images/icon_9.png"
-     name: "200+"
-     description: "Active Projects"
-   - icon: "/assets/images/icon_10.png"
-     name: "5+"
-     description: "Years Exerience"
+[//]: # # Achivement
+[//]: # achivement: 
+[//]: #   heading: "Over 500+ Completed work & Still Counting"
+[//]: #   text: "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at orci non risus luctus commodo. Ut nibh tellus, faucibus nec gravida."
+[//]: #   text2: "Duis quis ipsum leo. Praesent vitae tellus ac ante porta mattis vel non ex. Quisque a finibus justo."
+[//]: #   list:
+[//]: #    - icon: "/assets/images/icon_7.png"
+[//]: #      name: "300+"
+[//]: #      description: "Projects Done"
+[//]: #    - icon: "/assets/images/icon_8.png"
+[//]: #      name: "250+"
+[//]: #      description: "Projects Done"
+[//]: #    - icon: "/assets/images/icon_9.png"
+[//]: #      name: "200+"
+[//]: #      description: "Active Projects"
+[//]: #    - icon: "/assets/images/icon_10.png"
+[//]: #      name: "5+"
+[//]: #      description: "Years Exerience"
 
 # Pricing
 pricing:
