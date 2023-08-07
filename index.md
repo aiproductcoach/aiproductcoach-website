@@ -45,50 +45,50 @@ about:
 [//]: #      name: "5+"
 [//]: #      description: "Years Exerience"
 
-# Pricing
-pricing:
-  heading: "Afforable Pricing"
-  text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
-  list:
-   - icon: "/assets/images/icon_4.png"
-     name: "Basic"
-     price: "$75 <span>/ Month</span>"
-     button:
-       link: "#"
-       name: "Start now"
-     listitem:
-       - name: "Graphic Design"
-       - name: "Web Design"
-       - name: "<del>UI/UX</del>"
-       - name: "<del>HTML/CSS</del>"
-       - name: "<del>SEO Marketing</del>"
-       - name: "<del>Business Analysis</del>"
-   - icon: "/assets/images/icon_4.png"
-     name: "Standard"
-     price: "$250 <span>/ Month</span>"
-     button:
-       link: "#"
-       name: "Start now"
-     listitem:
-       - name: "Graphic Design"
-       - name: "Web Design"
-       - name: "<del>UI/UX</del>"
-       - name: "HTML/CSS"
-       - name: "<del>SEO Marketing</del>"
-       - name: "<del>Business Analysis</del>"
-   - icon: "/assets/images/icon_4.png"
-     name: "Premium"
-     price: "$350 <span>/ Month</span>"
-     button:
-       link: "#"
-       name: "Start now"
-     listitem:
-       - name: "Graphic Design"
-       - name: "Web Design"
-       - name: "UI/UX"
-       - name: "HTML/CSS"
-       - name: "SEO Marketing"
-       - name: "Business Analysis"
+[//]: # # Pricing
+[//]: # pricing:
+[//]: #   heading: "Afforable Pricing"
+[//]: #   text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+[//]: #   list:
+[//]: #    - icon: "/assets/images/icon_4.png"
+[//]: #      name: "Basic"
+[//]: #      price: "$75 <span>/ Month</span>"
+[//]: #      button:
+[//]: #        link: "#"
+[//]: #        name: "Start now"
+[//]: #      listitem:
+[//]: #        - name: "Graphic Design"
+[//]: #        - name: "Web Design"
+[//]: #        - name: "<del>UI/UX</del>"
+[//]: #        - name: "<del>HTML/CSS</del>"
+[//]: #        - name: "<del>SEO Marketing</del>"
+[//]: #        - name: "<del>Business Analysis</del>"
+[//]: #    - icon: "/assets/images/icon_4.png"
+[//]: #      name: "Standard"
+[//]: #      price: "$250 <span>/ Month</span>"
+[//]: #      button:
+[//]: #        link: "#"
+[//]: #        name: "Start now"
+[//]: #      listitem:
+[//]: #        - name: "Graphic Design"
+[//]: #        - name: "Web Design"
+[//]: #        - name: "<del>UI/UX</del>"
+[//]: #        - name: "HTML/CSS"
+[//]: #        - name: "<del>SEO Marketing</del>"
+[//]: #        - name: "<del>Business Analysis</del>"
+[//]: #    - icon: "/assets/images/icon_4.png"
+[//]: #      name: "Premium"
+[//]: #      price: "$350 <span>/ Month</span>"
+[//]: #      button:
+[//]: #        link: "#"
+[//]: #        name: "Start now"
+[//]: #      listitem:
+[//]: #        - name: "Graphic Design"
+[//]: #        - name: "Web Design"
+[//]: #        - name: "UI/UX"
+[//]: #        - name: "HTML/CSS"
+[//]: #        - name: "SEO Marketing"
+[//]: #        - name: "Business Analysis"
      
 # Testimonials
 testimonials:
