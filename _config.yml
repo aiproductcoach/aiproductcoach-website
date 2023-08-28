@@ -8,7 +8,7 @@ baseurl: "/aiproductcoach-website" # the subpath of your site, e.g. /blog
 url: "http://aiproductcoach.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-site_logo: "/aiproductcoach-website/assets/images/logo_1.png"
+site_logo: "{{site.baseurl}}/assets/images/logo_1.png"
 copyright: "Copyright &copy; 2023 <span>AI Product Coach LLC</span>. All rights reserved."
 
 permalink: "/:title"
@@ -23,7 +23,7 @@ plugins:
 instagram_url: "https://instagram.com/aiproduct.coach"
 linkedin_url: "https://linkedin.com/in/eva-agapaki"
 
-hero_image: "/aiproductcoach-website/assets/images/breadcrumb_bg.jpg"
+hero_image: "{{site.baseurl}}/assets/images/breadcrumb_bg.jpg"
 
 sass:
   sass_dir: _sass
