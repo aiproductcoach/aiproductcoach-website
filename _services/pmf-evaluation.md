@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "PMF Evaluation"
-icon: "/assets/images/icon_2.png"
+icon: "/aiproductcoach-website/assets/images/icon_2.png"
 post_image: "/assets/images/services/08.jpg"
 ---
 

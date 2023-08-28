@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Product Discovery"
-icon: "/assets/images/icon_3.png"
+icon: "/aiproductcoach-website/assets/images/icon_3.png"
 post_image: "/assets/images/services/09.jpg"
 ---
 
