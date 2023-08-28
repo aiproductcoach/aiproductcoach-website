@@ -1,4 +1,4 @@
 <!-- Start deneb_breadcrumb section -->
-<section class="deneb_breadcrumb bg_image" style="background-image: url({% if page.page_header_image %} {{page.page_header_image}} {% else %} {{site.hero_image}} {% endif %});">
+<section class="deneb_breadcrumb bg_image" style="background-image: url({% if page.page_header_image %} {{ page.page_header_image | absolute_url}} {% else %} {{ site.hero_image | absolute_url}} {% endif %});">
 </section>
 <!-- End deneb_breadcrumb section -->
