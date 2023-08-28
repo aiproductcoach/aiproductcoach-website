@@ -19,8 +19,8 @@
 			<div class="mobile_header">
 				<div class="row align-items-center">
 					<div class="col-6">
-						<div class="brand_logo">
-							<a href="{{ "/#" | absolute_url }}"><img src="{{ site.site_logo | absolute_url }}" class="img-fluid" alt="{{site.title}}"/></a>
+						<div class="brand">
+						  <a href="{{ "/#" | absolute_url }}" class="logo">AI Product Coach</a>
 						</div>
 					</div>
 					<div class="col-6">
@@ -51,7 +51,7 @@
 							{% endif %}
 						</li>
 					{% endfor %}
-					<li class="menu-item"><a href="/contact/" class="deneb_btn">Hire Us</a></li>
+					<li class="menu-item"><a href="{{ "/contact/" | absolute_url }}" class="deneb_btn">Hire Us</a></li>
 				</ul>
 			</div>
 		</div>
