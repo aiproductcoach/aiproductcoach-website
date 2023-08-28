@@ -9,7 +9,7 @@ slider:
     text: "We help deep tech startups reach Product-Market Fit & advise businesses and large organizations to transform early-stage ideas into successful ventures."
     button:
       name: "Contact Us"
-      link: "#"
+      link: "#contact"
 
 # Services
 services:  
