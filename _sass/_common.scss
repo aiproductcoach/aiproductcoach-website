@@ -95,7 +95,11 @@ body{
   padding-top: 120px;
   padding-bottom: 120px;
 }
-
+.logo{
+	font-family: $font1;
+	font-size:30px;
+	font-weight:bold;
+}
 .section_title{
 	max-width: 570px;
 	margin: auto;

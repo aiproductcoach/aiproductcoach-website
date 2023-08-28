@@ -1,15 +1,15 @@
 ---
 layout: about
 permalink: /about/
-page_header_image: "/assets/images/page_header.jpg"
-title: "About Me"
+page_header_image: "/assets/images/breadcrumb_bg.jpg"
+title: "About"
 
 # About
 about:
-  heading: "Why You Hire Us?"
-  text: "Proin ipsum arcu, lobortis id ullamcorper nec, vehicula eget magna. Sed ut malesuada magna, eget lacinia sapien. Nam molestie non ex sit amet ornare. Nunc in pellentesque ipsum, vel vulputate sapien."
-  text2: "Suspendisse potenti. Aliquam elementum felis purus, quis vulputate libero semper nec. Morbi tincidunt maximus nisl vel placerat. Curabitur at ligula ac diam elementum hendrerit. Suspendisse nec metus eu est laoreet hendrerit vitae non ipsum. Nam faucibus elementum arcu, eget eleifend tortor."
-  image: "/assets/images/about.png"
+  heading: "About"
+  text: "Dr. Agapaki is an experienced AI product management leader and executive advisor with 10 years of leadership and diverse technical product experiences in public, private and startup sectors. She has deep expertise in evaluating ideas, launching new products to market and scaling high growth startups. Her experience includes AI technical expertise, thought leadership, PMF strategy and product-led growth for deep tech ideas."
+  text2: "Dr. Agapaki has launched products in the technology, manufacturing and oil & gas industries. During her Professorship service at the University of Florida, she validated early-stage ideas and partnered with cross-functional teams, which resulted in generating a $1.5M research portfolio. During her Head of Product role at an AdTech company, she drove 150% revenue growth in Q2 2023. Dr. Eva has been developing AI-driven products for nearly a decade (founded startup out of Ph.D. research, scoped and hired team to develop first AI-product @ PTC, launched AI research lab). She has been trained in disciplined entrepreneurship at top-schools (MIT NSF I-corps training). Her experience with PMF led to building 0-1 products in large tech companies (PTC, AVEVA). She has received multiple AI leadership awards (featured as one of 60 AI leaders, 2022 Outstanding Leadership Award @ Internet 2.0 conference) and is a featured speaker at AI conferences."
+  image: "/assets/images/Eva_Agapaki_headshot2.jpeg"
   button:
     name: "Read More"
     link: "/about"

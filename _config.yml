@@ -20,9 +20,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
-facebook_url: "https://www.facebook.com/tortoiztheme"
-twitter_url: "https://twitter.com/tortoizthemes"
-instagram_url: "https://instagram.com/"
+instagram_url: "https://instagram.com/aiproduct.coach"
+linkedin_url: "https://linkedin.com/in/eva-agapaki"
 
 hero_image: "/assets/images/breadcrumb_bg.jpg"
 

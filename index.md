@@ -5,8 +5,8 @@ layout: home
 slider:
   - image: "/assets/images/banner_1.png"
     heading: "AI Product-Market Fit That Fits <b>You</b>"
-    heading2: "We Partner With Deep Tech Founders"
-    text: "Helping deep tech startups reach Product-Market Fit & transform early-stage ideas into successful ventures."
+    heading2: "Deep Tech Founders / Innovation Leaders"
+    text: "We help deep tech startups reach Product-Market Fit & advise businesses and large organizations to transform early-stage ideas into successful ventures."
     button:
       name: "Contact Us"
       link: "#"
@@ -19,11 +19,11 @@ services:
 # About 
 about: 
   heading: "Why Us?"
-  text: "Our program was conceived from a fervent passion for cultivating innovative products that are either rooted in rigorous research or address complex engineering challenges. Our mission is to empower deep tech entrepreneurs, enabling them to fully realize their potential and successfully introduce their groundbreaking ideas to the market."
-  text2: "Our founder, Dr. Eva Agapaki, brings a unique blend of expertise to the table. With a strong background in AI product development, technical research, and product-market fit (PMF) strategy, she is ideally positioned to elevate your early-stage startup to new heights."
-  image: "/assets/images/about.png"
+  text: "Our program was conceived from a fervent passion for cultivating innovative products that are either rooted in rigorous research or address complex engineering challenges. Our mission is to empower deep tech entrepreneurs and innovative larger businesses, enabling them to fully realize their potential and successfully introduce their groundbreaking ideas to the market."
+  text2: "Our founder, Dr. Eva Agapaki, brings a unique blend of expertise to the table. With a strong background in AI product development, technical research, and product-market fit (PMF) strategy, she is ideally positioned to elevate your early-stage idea to new heights."
+  image: "/assets/images/flower.png"
   button:
-    name: "Read More"
+    name: "About us"
     link: "/about"
 
 # Achivement
