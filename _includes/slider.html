@@ -1,7 +1,7 @@
 <!-- Start deneb_banner section -->
 <section class="deneb_banner banner_v1">
 	<div class="shape_v1">
-		<img src="{{ "/assets/images/shape/shape_1.png" | relative_url }}" class="shape_1" alt="slider one">
+		<img src="{{ "/assets/images/shape/shape_1.png" | absolute_url }}" class="shape_1" alt="slider one">
 	</div>
 	<div class="container">
 		<div class="hero_slider">
@@ -13,12 +13,12 @@
 							<h1>{{ slider.heading }}</h1>
 							<h5>{{ slider.heading2 }}</h5>
 							<p>{{ slider.text }}</p>
-							<a href="{{ slider.button.link | relative_url }}" class="deneb_btn">{{ slider.button.name }}</a>
+							<a href="{{ slider.button.link | absolute_url }}" class="deneb_btn">{{ slider.button.name }}</a>
 						</div>
 					</div>
 					<div class="col-lg-7">
 						<div class="deneb_img_box wow fadeInRight">
-							<img src="{{ slider.image | relative_url }}" class="img-fluid" alt="slider two" />
+							<img src="{{ slider.image | absolute_url }}" class="img-fluid" alt="slider two" />
 						</div>
 					</div>
 				</div>
