@@ -192,10 +192,10 @@
 	    			&:focus{
 	    				color: $white;
 	    			}
-	    			& .deneb_btn{
-		    			padding: 0;
-		    		}
 	    		}
+			& .deneb_btn{
+				padding: 0;
+			}
 	    	}
 	    	& .active{
 				a{
