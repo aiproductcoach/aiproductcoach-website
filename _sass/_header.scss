@@ -19,7 +19,11 @@
 						a{
 							display: block;
 							padding: 17px 0;
-							color: #76787b;
+							color: $light_gray;
+							&:hover{
+								color: $white;
+							}
+							/* color: #76787b; */
 							font-weight: 500;
 							position: relative;
 							@media #{$lg}{
@@ -28,7 +32,7 @@
 						}
 						.deneb_btn{
 							padding: 0;
-							color: $white;
+							color: $logo_bg;
 						}
 						& ul.sub-menu{
 							position: absolute;
@@ -210,6 +214,7 @@
 	top: 33px;
 	left: 0;
 	width: 100%;
+	background: $logo_bg;
 	z-index: 337;
 }
 // sticky_header
@@ -218,7 +223,7 @@
 	top: 0;
 	left: 0;
 	width: 100%;
-	background: $white;
+	background: $logo_bg;
 	z-index: 337;
 	box-shadow: 2.5px 4.33px 15px 0px rgba(0, 0, 0, 0.15);
 	.site_menu{
