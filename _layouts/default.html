@@ -9,10 +9,10 @@
 	    <!-- page title -->
 		<title>{% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %}</title>
 		<!-- Favicon Icon -->
-    	<link rel="shortcut icon" href="{{ "/assets/images/favicon.ico" | absolute_url }}" type="image/png">
+    	<link rel="shortcut icon" href="{{ "/assets/images/favicon.png" | absolute_url }}" type="image/png">
 		<!-- All css -->
 		<!--Bootstrap css-->
-	    <link rel="stylesheet" href="{{ "/assets/css/bootstrap.min.css" | absolute_url }}">
+	    <link rel="stylesheet" href="{{ "/assets/css/bootstrap.min.css" | relative_url }}">
 	    <!-- Fontawesome css -->
 	    <link rel="stylesheet" href="{{ "/assets/fonts/fontawesome/css/all.css" | absolute_url }}">
 	    <!-- slick fader css -->
