@@ -1,14 +1,14 @@
 title: "Hatch Labs"
 email: "eva@hatchlabs.ai"
 description: >- # this means to ignore newlines until "baseurl:"
-  AI Product Coach helps deep tech startups reach Product-Market Fit & advise businesses
+  Hatch Labs helps deep tech startups reach Product-Market Fit & advise businesses
   and large organizations to transform early-stage ideas into successful ventures.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "//aiproductcoach.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 site_logo: "/assets/images/logo.png"
-copyright: "Copyright &copy; 2023 <span>AI Product Coach LLC</span>. All rights reserved."
+copyright: "Copyright &copy; 2023 <span>Hatch Labs</span>. All rights reserved."
 
 permalink: "/:title"
 
