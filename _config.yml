@@ -1,5 +1,5 @@
 title: "Hatch Labs"
-email: "eva@aiproduct.coach"
+email: "eva@hatchlabs.ai"
 description: >- # this means to ignore newlines until "baseurl:"
   AI Product Coach helps deep tech startups reach Product-Market Fit & advise businesses
   and large organizations to transform early-stage ideas into successful ventures.
@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # url: "//aiproductcoach.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-site_logo: "/aiproductcoach-website/assets/images/logo_1.png"
+site_logo: "/assets/images/logo_1.png"
 copyright: "Copyright &copy; 2023 <span>AI Product Coach LLC</span>. All rights reserved."
 
 permalink: "/:title"
@@ -19,10 +19,10 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
-instagram_url: "https://instagram.com/aiproduct.coach"
+instagram_url: "https://instagram.com/hatchlabs.ai"
 linkedin_url: "https://linkedin.com/in/eva-agapaki"
 
-hero_image: "/aiproductcoach-website/assets/images/breadcrumb_bg.jpg"
+hero_image: "/assets/images/breadcrumb_bg.jpg"
 
 sass:
   sass_dir: _sass
