@@ -16,7 +16,7 @@
 				{% for list in page.achivement.list %}
 					<div class="single_achivment wow fadeInUp">
 						<div class="icon">
-							<img src="{{ list.icon | absolute_url }}" class="img-fluid" alt="">
+							<img src="{{ list.icon | relative_url }}" class="img-fluid" alt="">
 						</div>
 						<h3>{{ list.name }}</h3>
 						<p>{{ list.description }}</p>
