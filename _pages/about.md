@@ -31,24 +31,24 @@ our_skill:
 
 # Work Experience
 work_experience:
-  heading: "Our Work Experience"
-  description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  heading: "Our Unique Experiences"
+  description: "The next wave of successful AI products requires a diverse set of skills, experience and agile practices. We provide our clients with unique AI product innovation packages backed by expertise in:"
   list:
     - name: "1."
-      text: "Mauris dictum eros purus, vitae pharetra risus pulvinar rhoncus. Duis bibendum tristique luctus. Aliquam non urna odio morbi nec lectus tempus lorem vehicula consequat sed eu lectus. Ut maximus nulla a est placer."
-      position: "Graphic Designer"
-      name2: "john abraham"
-      duration: "March 2007- August 2020"
+      text: "Our Founder has held multiple positions as Head of Product in startups and Lead Product Management roles in innovation labs of large organizations. She brought challenging 0-1 AI products to market in multiple industries such as manufacturing and AdTech."
+      position: "AI Product Leadership"
+      name2: ""
+      duration: ""
     - name: "2."
-      text: "Mauris dictum eros purus, vitae pharetra risus pulvinar rhoncus. Duis bibendum tristique luctus. Aliquam non urna odio morbi nec lectus tempus lorem vehicula consequat sed eu lectus. Ut maximus nulla a est placer."
-      position: "Graphic Designer"
-      name2: "john abraham"
-      duration: "March 2007- August 2020"
+      text: "Our Founder was an Professor in AI and Product Management at the University of Florida, transforming ideas into multi-million dollar worth products. Hatch Labs is also supported by an advisory board that consists of senior leaders in Big Tech, sustainability and oil &amp gas industries."
+      position: "AI Technical Expertise"
+      name2: ""
+      duration: ""
     - name: "3."
-      text: "Mauris dictum eros purus, vitae pharetra risus pulvinar rhoncus. Duis bibendum tristique luctus. Aliquam non urna odio morbi nec lectus tempus lorem vehicula consequat sed eu lectus. Ut maximus nulla a est placer."
-      position: "Graphic Designer"
-      name2: "john abraham"
-      duration: "March 2007- August 2020"
+      text: "Hatch Labs brings ideas to market by applying agile practices and using the latest AI tools and advances in applied AI research."
+      position: "Entrepreneurial Drive"
+      name2: ""
+      duration: ""
 
 # Testimonials
 testimonials:
