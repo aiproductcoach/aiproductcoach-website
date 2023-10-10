@@ -1,0 +1,46 @@
+<!-- Start service_feature -->
+<section class="service_feature">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section_title text-center">
+					<h2>{{ include.service_title }}</h2>
+					<p>{{ include.service_content }}</p>
+				</div>
+			</div>
+		</div>
+		<div class="feature_wrapper">
+			HELLO {{include.service_contents}}
+			{% for item in include.service_contents %}
+			{{item}}
+			<div class="single_feature">
+				a
+				<div class="row align-items-center">
+					b
+					<div class="col-lg-6">
+						<div class="deneb_img_box simple" style="background-image: none">
+							<img src="" class="img-fluid simple" alt="">
+						</div>
+					</div>
+					<div class="col-lg-6">
+						c
+						<div class="deneb_content_box">
+							d
+							<div class="icon">
+								<img src="" alt="">
+							</div>
+							<div class="info">
+								{{ item }}
+								X{{ item.title }}X
+								<h3>{{ item.title }}</h3>
+								<p>{{ item.text }}</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+<!-- End deneb_feature -->
