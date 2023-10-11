@@ -14,7 +14,6 @@ slider:
 # Services
 services:  
   heading: "Our Services"
-  #text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
 
 # About 
 about: 
