@@ -3,3 +3,7 @@
   url: /about
 - text: Services
   url: /services
+- text: Courses 
+  url: /courses
+- text: Blog
+  url: /blog

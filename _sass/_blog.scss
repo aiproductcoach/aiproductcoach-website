@@ -1,4 +1,20 @@
 // deneb_blog css
+
+#substack-feed-container{
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  padding-bottom: 10%;
+  #substack-feed-embed{
+    width: 60%;
+    .substack-feed-widget{
+      .bg-current{
+        color: white;
+      }
+    }
+  }
+}
+
 .blog_v1{
 	position: relative;
 	padding-bottom: 120px;
